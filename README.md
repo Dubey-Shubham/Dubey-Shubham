@@ -1,8 +1,8 @@
+
 <h1 align="center">Hello Dear 👋, I'm Shubham</h1>
 <h3 align="center">Aspiring Web Developer and an avid learner</h3>
 
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
-
 
 - 🔭 I’m currently working on **Web Applications**
 
@@ -22,6 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/therealshubhamd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therealshubhamd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shubham-dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-dubey" height="30" width="40" /></a>
+<a href="https://instagram.com/therealshubhamdubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="therealshubhamdubey" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
