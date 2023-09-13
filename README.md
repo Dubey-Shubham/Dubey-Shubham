@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Web Applications**
 
-- 🌱 I’m currently learning **Typescript and solidity**
+- 🌱 I’m currently learning **Typescript**
 
 - 👯 I’m looking to collaborate on **Web development Projects**
 
