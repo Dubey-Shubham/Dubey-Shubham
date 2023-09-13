@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello Dear 👋, I'm Shubham</h1>
+<h1 align="center">Hello There 👋, I'm Shubham</h1>
 <h3 align="center">Aspiring Web Developer and an avid learner</h3>
 
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
